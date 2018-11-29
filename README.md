@@ -1,2 +1,8 @@
-# aula2
-Arquivos da segunda aula de versionamento 2
+# aula1
+Arquivos da primeira aula de versionamento
+
+Inclusao de linha para teste.
+
+Dados para a versão 2.
+
+Alteração feita no desktop Windows.
